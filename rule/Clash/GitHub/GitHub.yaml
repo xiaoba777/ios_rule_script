@@ -34,5 +34,7 @@ payload:
   - DOMAIN-SUFFIX,rawgit.com
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,repo.new
+  - DOMAIN-SUFFIX,gptapi.us
+  - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
