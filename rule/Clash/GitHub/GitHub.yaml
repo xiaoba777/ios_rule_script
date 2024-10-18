@@ -48,4 +48,6 @@ payload:
   - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,jiasupanda.com
   - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,v2ray-agent.com
+  - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-KEYWORD,github
