@@ -51,4 +51,5 @@ payload:
   - DOMAIN-SUFFIX,v2ray-agent.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,lemonhd.club
+  - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-KEYWORD,github
