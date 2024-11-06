@@ -56,4 +56,8 @@ payload:
   - DOMAIN-SUFFIX,mediafire.com
   - DOMAIN-SUFFIX,digit77.com
   - DOMAIN-SUFFIX,nitroflare.com
+  - DOMAIN-SUFFIX,appstorrent.ru
+  - DOMAIN-SUFFIX,ouo.io
+  - DOMAIN-SUFFIX,cmacked.com
+  - DOMAIN-SUFFIX,foxirj.com
   - DOMAIN-KEYWORD,github
