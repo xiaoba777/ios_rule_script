@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2024-09-27 02:13:03
+最后更新时间：2024-11-27 02:14:17
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 425  | 
+| HOST | 426  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 92305  | 
+| HOST-SUFFIX | 94303  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8042  | 
-| IP6-CIDR | 11357  | 
+| IP-CIDR | 8340  | 
+| IP6-CIDR | 12523  | 
 | USER-AGENT | 65  | 
-| TOTAL | 112209  | 
+| TOTAL | 115672  | 
 
 
 ## QuantumultX 
@@ -173,7 +173,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaWei.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/CMedia.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEase.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Netease.list
