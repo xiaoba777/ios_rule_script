@@ -69,7 +69,8 @@ payload:
   - DOMAIN-SUFFIX,yrxitong.com
   - DOMAIN-SUFFIX,pic.netbian.com
   - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,cursor
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-KEYWORD,github
